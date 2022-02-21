@@ -1,7 +1,6 @@
-Michael Loubier		08/01/2022
+# **ChatBox**
 
-#ChatBox
-
+Michael Loubier
 FEBRUARY 11, 2022
 
 # **Table of Contents**
