@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/menu_chat" app:showAsAction="ifRoom"
+        android:icon="@drawable/chat"
+        android:id="@+id/menu_chat" />
+    <item android:title="@string/menu_profile" app:showAsAction="ifRoom"
+        android:icon="@drawable/profile"
+        android:id="@+id/menu_profile"/>
+    <item android:title="@string/sign_out" app:showAsAction="never"
+        android:icon="@drawable/logoff"
+        android:id="@+id/menu_sign_out"/>
+    <item android:title="@string/menu_delete" app:showAsAction="never"
+        android:icon="@drawable/delete"
+        android:id="@+id/menu_delete"/>
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987066041558",
+    "firebase_url": "https://chatbox-5e03d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatbox-5e03d",
+    "storage_bucket": "chatbox-5e03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987066041558:android:556c4d1a5ca97abb28f577",
+        "android_client_info": {
+          "package_name": "com.milo.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987066041558-74nhov52tkuo5ti10od1sgf682cmcjgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAKaSmhGtZPkOor09bSHAdTxKhUSKtCOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987066041558-74nhov52tkuo5ti10od1sgf682cmcjgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
