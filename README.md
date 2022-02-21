@@ -1,5 +1,3 @@
-# **ChatBox**
-
 ![](Aspose.Words.e4175428-394f-4a2f-a96e-1ea8ad74bcea.001.png)
 
 Michael Loubier
