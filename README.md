@@ -1,12 +1,6 @@
 Michael Loubier		08/01/2022
 
-Android Application
-
-GÄVLE UNIVERSITY
-
-MICHAEL LOUBIER
-
-Mike\_lou89@hotmail.com
+#ChatBox
 
 FEBRUARY 11, 2022
 
