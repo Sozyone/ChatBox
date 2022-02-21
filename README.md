@@ -4,17 +4,12 @@ Android Application
 
 GÄVLE UNIVERSITY
 
-![ picture containing logo
-
-Description automatically generated](Aspose.Words.e4175428-394f-4a2f-a96e-1ea8ad74bcea.001.png)![](Aspose.Words.e4175428-394f-4a2f-a96e-1ea8ad74bcea.002.png)![](Aspose.Words.e4175428-394f-4a2f-a96e-1ea8ad74bcea.003.png)
-
 MICHAEL LOUBIER
 
 Mike\_lou89@hotmail.com
 
 FEBRUARY 11, 2022
 
-![](Aspose.Words.e4175428-394f-4a2f-a96e-1ea8ad74bcea.004.png)![](Aspose.Words.e4175428-394f-4a2f-a96e-1ea8ad74bcea.005.png)
 # **Table of Contents**
 
 [1	Introduction	2](#_Toc95485152)
